@@ -1,0 +1,17 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+cria uma pasta .git onde ficará o historico das modificações feitas nos arquivos da pasta 
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+Area de preparação é onde são guardadas as mudanças do commit antes de serem enviados, area de trabalho é onde os arquivos estão no momento.
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+sim 
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+quando uma mudança ou feature precisa ser adicionada mas sem alterar o original, tendo 2 versões diferentes do mesmo projeto 
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+porque mostra o caminho de cada uma dos branch, dando uma visão completa da linha de vida do que foi mudado.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+Vantagem é que facilita o trabalho de verificação de mudanças e também pela marcação das tags dos conflitos, a desvantagem é que é um pouco complicado no começo fazer isso. Ja a manual é complicada pois é preciso verificar arquivo por arquivo quais as mudanças foram feitas.
