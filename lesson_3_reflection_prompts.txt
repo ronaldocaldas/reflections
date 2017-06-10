@@ -1,0 +1,2 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+Talvez quando preciso ter algum tipo de privacidade com o meu código e não quero pagar por um repositório privado.
